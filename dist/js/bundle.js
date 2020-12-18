@@ -1,0 +1,1 @@
+(()=>{var t={31:t=>{t.exports=[{text:"Hello there",type:"greet"},{text:"Do not do that",type:"warn"},{text:"Something went wrong",type:"error"}]}},e={};function r(o){if(e[o])return e[o].exports;var n=e[o]={exports:{}};return t[o](n,n.exports,r),n.exports}(()=>{const t=r(31);console.log(t[0].text)})()})();
